@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kamran Baig
+    kamrandevops007@gmail.com
+    DevOps Engineer
 
 # THANKS
 
