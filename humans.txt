@@ -3,19 +3,22 @@
 
 # TEAM
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
     <name> -- Kamran Baig -- <twitter>
-=======
+
     Kamran Baig
     kamrandevops007@gmail.com
+HEAD
     DevOps Engineer
->>>>>>> develop
-=======
-    Kamran Baig
+ Baig
     kamrandevops007@gmail.com
     DevOps Engineer
->>>>>>> develop
+ develop
+
+
+
+develop
 
 # THANKS
 
@@ -24,5 +27,10 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+
+
+
+
