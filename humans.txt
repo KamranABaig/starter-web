@@ -4,7 +4,13 @@
 # TEAM
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     <name> -- Kamran Baig -- <twitter>
+=======
+    Kamran Baig
+    kamrandevops007@gmail.com
+    DevOps Engineer
+>>>>>>> develop
 =======
     Kamran Baig
     kamrandevops007@gmail.com
