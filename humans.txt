@@ -5,7 +5,8 @@
 
     Kamran Baig
     kamrandevops007@gmail.com
-    DevOps Engineer
+    Job Title DevOps Engineer
+
 
 # THANKS
 
@@ -15,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
