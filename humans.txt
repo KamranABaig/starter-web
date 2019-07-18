@@ -1,29 +1,20 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+	Hi, I am modifyting the file before rebase.
 # TEAM
 
     Kamran Baig
     kamrandevops007@gmail.com
     DevOps Engineer
-<<<<<<< HEAD
 
 # THANKS
 
-	Hello! This change is in Master Branch.
-=======
->>>>>>> Changed in mybranch
-
-
-<<<<<<< HEAD
-=======
-	Changing
->>>>>>> Changed in mybranch
+	Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
 
