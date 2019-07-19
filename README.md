@@ -12,8 +12,11 @@ Adding GIT Lectures in GIT Advance part.  We have done so much of work together.
 
 ## Contribution
 Fork the Repo and raise pull request for review
+
 ## GIT Comparisons
 Adding GIT Comparisons Lectures
+Adding new Lectures of Stash.
 
 ## GITHub Content
 Comparisons with Repo
+
